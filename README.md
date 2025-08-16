@@ -1,2 +1,2 @@
 # i-phone-sales-analysis-
-A data analytics using power bi and python 
+A data analytics using power bi and excel 
